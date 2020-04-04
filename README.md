@@ -14,7 +14,7 @@ Or, view the notebook in [nbviewer](https://nbviewer.jupyter.org/github/ssiddhan
 
 Via Binder :
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chris-rands/biopython-coronavirus/master?filepath=biopython-coronavirus-notebook.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ssiddhantsharma/Coronavirus-Research-Tutorial/master?urlpath=https%3A%2F%2Fgithub.com%2Fssiddhantsharma%2FCoronavirus-Research-Tutorial%2Fblob%2Fmaster%2Fbiopython-coronavirus-notebook.ipynb)
 
 ## Running the Notebook locally
 
