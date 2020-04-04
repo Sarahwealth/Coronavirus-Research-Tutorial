@@ -11,16 +11,7 @@ Alternatively view the Notebook by pasting the address into [nbviewer](https://n
 
 ## Running the Notebook online
 
-Click the icons below to launch one of the two options:
-
-1. via Google collab
-
-<div class="devsite-table-wrapper"><table class="tfo-notebook-buttons" align="left">
-<td><a target="_blank" href="https://colab.research.google.com/github/chris-rands/biopython-coronavirus/blob/master/biopython-coronavirus-notebook.ipynb">
-<img src="https://www.tensorflow.org/images/colab_logo_32px.png">Run in Google Colab</a></td>
-</table></div>
-
-2. via Binder
+Via Binder :
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chris-rands/biopython-coronavirus/master?filepath=biopython-coronavirus-notebook.ipynb)
 
@@ -54,8 +45,3 @@ Open the Notebook as follows:
 jupyter-notebook biopython-coronavirus-notebook.ipynb
 ```
 
-## Related Biopython resources
-
-- [Official tutorial documentation](http://biopython.org/DIST/docs/tutorial/Tutorial.html)
-- [Peter's workshop](https://github.com/peterjc/biopython_workshop)
-- [Notebook tutorials](https://github.com/tiagoantao/biopython-notebook)
