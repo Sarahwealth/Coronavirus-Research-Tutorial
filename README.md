@@ -46,3 +46,32 @@ Open the Notebook as follows:
 jupyter-notebook biopython-coronavirus-notebook.ipynb
 ```
 
+### Open questions
+- How is orf1ab cleaved into polypeptides? Can we predict this from the sequence?
+- How do the researchers know (guess?) where orf1ab cleaves?
+  - nsp3 and nsp5 do it -- https://www.pnas.org/content/pnas/103/15/5717.full.pdf
+- Which protein is the immune system responding to?
+  - "spike" and "nucleocapsid" -- http://www.cmi.ustc.edu.cn/1/3/193.pdf
+  - Are some people already immune from exposure to other coronavirus?
+- Find the "furin cleavage site" in the "spike glycoprotein"
+  - It might be at the "PRRA" -- https://www.sciencedirect.com/science/article/pii/S0166354220300528
+  - Use ProP or PiTou to predict? -- https://en.wikipedia.org/wiki/Furin
+- How similar are the other coronaviruses? (causes colds, not either SARS or MERS)
+  - alpha
+    - https://en.wikipedia.org/wiki/Human_coronavirus_229E (simpler, though targets APN)
+    - https://en.wikipedia.org/wiki/Human_coronavirus_NL63 (targets ACE2!)
+      - https://www.ncbi.nlm.nih.gov/nuccore/MG772808
+  - beta
+    - https://en.wikipedia.org/wiki/Human_coronavirus_OC43 (targets Neu5Ac)
+      - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2095096/pdf/JIDMM17330.pdf
+      - Specifically, how similar is the N protein OC43, SARS v1, and SARS v2?
+    - https://en.wikipedia.org/wiki/Human_coronavirus_HKU1 (targets Neu5Ac)
+    - MERS-CoV
+    - SARS-CoV
+    - SARS-CoV-2
+- What adds the phosphate group to the N protein? Kinase?
+
+
+ 
+
+
