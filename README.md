@@ -72,6 +72,7 @@ jupyter-notebook biopython-coronavirus-notebook.ipynb
 - What adds the phosphate group to the N protein? Kinase?
 
 
+
 ![alt text](virus.png "Title")
 
 _Figure 1.  Phylogenetic tree showing the relationship of Wuhan-Hu-1 (circled in red) to selected coronaviruses. Nucleotide alignment was done with ***MUSCLE 3.8.*** The phylogenetic tree was estimated with ***[MrBayes 3.2.6](https://nbisweden.github.io/MrBayes/download.html)*** with parameters for GTR+g+i.  The scale bar indicates estimated substitutions per site, and all branch support values are ***99.3%*** or higher.
